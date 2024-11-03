@@ -21,6 +21,7 @@ I’m a passionate **Full Stack Developer** and **Computer Science student** wit
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ### 📊 GitHub Stats
