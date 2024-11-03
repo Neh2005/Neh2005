@@ -41,5 +41,5 @@ I’m a passionate **Full Stack Developer** and **Computer Science student** wit
 
 ![](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neh2005&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neh2005&layout=compact&theme=radical&langs_count=10&count_private=true)
 
