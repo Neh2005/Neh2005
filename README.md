@@ -34,6 +34,7 @@ I’m a passionate **Full Stack Developer** and **Computer Science student** wit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+[![Seaborn](https://img.shields.io/badge/Seaborn-API-blue?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 
