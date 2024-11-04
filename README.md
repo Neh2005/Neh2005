@@ -7,7 +7,6 @@ I’m a passionate **Full Stack Developer** and **Computer Science student** wit
 - 🧑‍💻 **Previous Experience**: Developed and deployed full-stack applications, conducted PESTLE analysis in financial consulting, and contributed to open-source projects through Girlscript Summer of Code.
 - 📈 **Projects**: Led the **Automated Greenhouse Project for gerberas** using MQTT, which was recognized as the top project in my cohort for its IoT-based environmental control.
   
-### 🛠️ Languages and Tools
 
 # 🛠️ Technologies and Tools
 
@@ -15,6 +14,7 @@ I’m a passionate **Full Stack Developer** and **Computer Science student** wit
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Codio](https://img.shields.io/badge/Codio-1F2A3A?style=for-the-badge&logo=codio&logoColor=white)](https://codio.com/)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,6 +36,7 @@ I’m a passionate **Full Stack Developer** and **Computer Science student** wit
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 [![Seaborn](https://img.shields.io/badge/Seaborn-API-blue?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
 ### 📊 GitHub Stats
