@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a passionate **Full Stack Developer** and **Computer Science student** with a focus on building impactful solutions in web development and IoT. Currently pursuing my BS in Computer Science, I have hands-on experience with **Python**, **Django**, **JavaScript**, **HTML/CSS**, and database management using **MySQL** with phpMyAdmin.
+I’m a passionate **Full Stack Developer** and **Computer Science junior** with a focus on building impactful solutions in web development and IoT. Currently pursuing my BS in Computer Science, I have hands-on experience with **Python**, **Django**, **JavaScript**, **HTML/CSS**, and database management using **MySQL** with phpMyAdmin.
 
 ### 🌟 About Me
 - 🌱 **Learning**: Advanced Java with Spring Boot, Kafka, AI/ML for chatbot development, data analysis, and automata theory to deepen my knowledge in computation.
