@@ -42,6 +42,10 @@ I’m a passionate **Full Stack Developer** and **Computer Science junior** with
 
 ### 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/1-repos-per-language.svg)
+### 📌 GitHub Activity
+
+![Followers](https://img.shields.io/github/followers/Neh2005?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Neh2005?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Neh2005/Neh2005?style=for-the-badge)
+![Pull Requests](https://img.shields.io/github/issues-pr/Neh2005/Neh2005?style=for-the-badge)
+
