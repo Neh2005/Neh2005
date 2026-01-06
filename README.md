@@ -42,6 +42,9 @@ I’m a passionate **Full Stack Developer** and **Computer Science junior** with
 
 ### 📊 GitHub Stats
 
+![Test](https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neh2005&layout=compact&langs_count=8)
