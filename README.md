@@ -42,13 +42,4 @@ I’m a passionate **Full Stack Developer** and **Computer Science junior** with
 
 ### 📊 GitHub Stats
 
-### 📌 GitHub Activity
-
-### 📊 GitHub Stats
-
-![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/3-stats.svg)
-
-![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/1-repos-per-language.svg)
-
-![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/2-most-commit-language.svg)
 
