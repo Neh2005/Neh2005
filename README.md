@@ -42,19 +42,10 @@ I’m a passionate **Full Stack Developer** and **Computer Science junior** with
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Neh2005&count_private=true&cache_seconds=7200)
+![](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neh2005&layout=compact&theme=radical&langs_count=10&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neh2005&layout=compact&langs_count=8)
 
+![Commits](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&include_all_commits=true&hide=issues,prs,contribs)
 
-### 📊 GitHub Stats
-
-![Commits](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&include_all_commits=true&hide=prs,issues,contribs)
-
-![Issues](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=prs,contribs,commits)
-
-![Pull Requests](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=issues,commits,contribs)
-
-![Repositories](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=issues,commits,prs)
-
-
+![Repositories](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=issues,prs,commits)
