@@ -42,13 +42,6 @@ I’m a passionate **Full Stack Developer** and **Computer Science junior** with
 
 ### 📊 GitHub Stats
 
-![Test](https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png)
-
-
-![](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neh2005&layout=compact&langs_count=8)
-
-![Commits](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&include_all_commits=true&hide=issues,prs,contribs)
-
-![Repositories](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=issues,prs,commits)
+![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/3-stats.svg)
+![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Neh2005/Neh2005/main/profile-summary-card-output/default/1-repos-per-language.svg)
