@@ -47,12 +47,14 @@ I’m a passionate **Full Stack Developer** and **Computer Science junior** with
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neh2005&layout=compact&theme=radical&langs_count=10&count_private=true)
 
 
-| Total Commits | Issues Opened |
-|---------------|---------------|
-| ![Commits](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&title_color=333&icon_color=333&text_color=333&bg_color=ffffff&custom_title=Total%20Commits) | ![Issues](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&count_private=true&hide=prs,contribs,commits&title_color=333&icon_color=333&text_color=333&bg_color=ffffff&custom_title=Issues%20Opened) |
+### 📊 GitHub Stats
 
-| Pull Requests | Repositories |
-|---------------|--------------|
-| ![Pull Requests](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&count_private=true&hide=issues,commits,contribs&title_color=333&icon_color=333&text_color=333&bg_color=ffffff&custom_title=Pull%20Requests) | ![Repositories](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&count_private=true&hide=issues,commits,prs&title_color=333&icon_color=333&text_color=333&bg_color=ffffff&custom_title=Repositories) |
+![Commits](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&include_all_commits=true&hide=prs,issues,contribs)
+
+![Issues](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=prs,contribs,commits)
+
+![Pull Requests](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=issues,commits,contribs)
+
+![Repositories](https://github-readme-stats.vercel.app/api?username=Neh2005&show_icons=true&hide=issues,commits,prs)
 
 
