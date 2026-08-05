@@ -4,7 +4,7 @@ I build two kinds of things: systems people rely on, and AI clinicians can trust
 
 **Currently**
 - Final-year CS (Best Graduating Student, First Class) — Coventry University, graduating June 2026
-- ML Research Intern at DiceMed — building a BiomedCLIP-based system that flags inconsistencies between dental CBCT scans and clinical notes
+- ML Research Intern at DiceMed — building a BiomedCLIP-based RAG system to retrieve similar dental CBCT scans and clinical notes.
 - Co-author, ODIN Workshop @ MICCAI 2026 — *Multimodal Clinical-Data-Integrity for Dental CBCT* (under review)
 
 ---
