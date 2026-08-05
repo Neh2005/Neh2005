@@ -1,6 +1,6 @@
 ## Neha Ann Binoy
 
-I build AI systems for healthcare that clinicians can actually trust — and the engineering underneath them, from research pipelines to the tools that ship. Right now that means multimodal clinical AI at DiceMed and a research paper under review at MICCAI 2026.
+I build two kinds of things: systems people rely on, and AI clinicians can trust.
 
 **Currently**
 - Final-year CS (Best Graduating Student, First Class) — Coventry University, graduating June 2026
@@ -23,7 +23,9 @@ Real-time collaboration platform — led a 6-person team through RBAC, live mess
 **[Secure E-Commerce Platform](https://github.com/Neh2005/Secure-E-Commerce-project)**
 Built it, then spent as much time trying to break it — OWASP Top 10 hardening, MFA, and an automated audit pipeline (Bandit, Semgrep, ZAP) that ran on every commit until it reached zero exploitable vulnerabilities.
 
-*(+ [genomic-variant-density-viewer](https://github.com/Neh2005/genomic-variant-density-viewer) — Rust/WASM, and [Healio](https://github.com/Neh2005/Healio_Microsoft_Imagine_Cup) — Microsoft Imagine Cup)*
+Also shipped into someone else's codebase, not just my own — merged multiple PRs into GirlScript Summer of Code's open-source project, working under mentor review and someone else's CI pipeline.
+
+*(+ [genomic-variant-density-viewer](https://github.com/Neh2005/genomic-variant-density-viewer) — a weekend project to learn Rust and WebAssembly, rendering genomic variant density in the browser, and [Healio](https://github.com/Neh2005/Healio_Microsoft_Imagine_Cup) — [PLACEHOLDER: one honest line once you tell me what it does])*
 
 ---
 
@@ -36,4 +38,4 @@ Built it, then spent as much time trying to break it — OWASP Top 10 hardening,
 
 ---
 
-Reach me: **[neha.ann.binoy@gmail.com](mailto:neha.ann.binoy@gmail.com)**
+Reach me: **[neha.ann.binoy@gmail.com](mailto:neha.ann.binoy@gmail.com)** · portfolio: **[heyitsnab.web.app](https://heyitsnab.web.app)**
