@@ -4,7 +4,7 @@ I build two kinds of things: systems people rely on, and AI clinicians can trust
 
 **Currently**
 - Final-year CS (Best Graduating Student, First Class) — Coventry University, graduating June 2026
-- ML Research Intern at DiceMed — building a BiomedCLIP-based RAG system to retrieve similar dental CBCT scans and clinical notes.
+- ML Research Intern at DiceMed — building a BiomedCLIP-based RAG system to retrieve similar dental 3D CBCT scans and clinical notes on uploading both clinical records or 3D CBCT scans.
 - Co-author, ODIN Workshop @ MICCAI 2026 — *Multimodal Clinical-Data-Integrity for Dental CBCT* (under review)
 
 ---
@@ -25,7 +25,7 @@ Built it, then spent as much time trying to break it — OWASP Top 10 hardening,
 
 Also shipped into someone else's codebase, not just my own — merged multiple PRs into GirlScript Summer of Code's open-source project, working under mentor review and someone else's CI pipeline.
 
-*(+ [genomic-variant-density-viewer](https://github.com/Neh2005/genomic-variant-density-viewer) — a weekend project to learn Rust and WebAssembly, rendering genomic variant density in the browser, and [Healio](https://github.com/Neh2005/Healio_Microsoft_Imagine_Cup) — [PLACEHOLDER: one honest line once you tell me what it does])*
+*(+ [genomic-variant-density-viewer](https://github.com/Neh2005/genomic-variant-density-viewer) — a weekend project to learn Rust and WebAssembly, rendering genomic variant density in the browser, and [Healio](https://github.com/Neh2005/Healio_Microsoft_Imagine_Cup) — a health-tech app started for Microsoft Imagine Cup, shelved before submission)*
 
 ---
 
