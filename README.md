@@ -1,45 +1,39 @@
-## Hi there 👋
+## Neha Ann Binoy
 
-I’m a passionate **Full Stack Developer** and **Computer Science junior** with a focus on building impactful solutions in web development and IoT. Currently pursuing my BS in Computer Science, I have hands-on experience with **Python**, **Django**, **JavaScript**, **HTML/CSS**, and database management using **MySQL** with phpMyAdmin.
+I build AI systems for healthcare that clinicians can actually trust — and the engineering underneath them, from research pipelines to the tools that ship. Right now that means multimodal clinical AI at DiceMed and a research paper under review at MICCAI 2026.
 
-### 🌟 About Me
-- 🌱 **Learning**: Advanced Java with Spring Boot, Kafka, AI/ML for chatbot development, data analysis, and automata theory to deepen my knowledge in computation.
-- 🧑‍💻 **Previous Experience**: Developed and deployed full-stack applications, conducted PESTLE analysis in financial consulting, and contributed to open-source projects through Girlscript Summer of Code.
-- 📈 **Projects**: Led the **Automated Greenhouse Project for gerberas** using MQTT, which was recognized as the top project in my cohort for its IoT-based environmental control.
-  
+**Currently**
+- Final-year CS (Best Graduating Student, First Class) — Coventry University, graduating June 2026
+- ML Research Intern at DiceMed — building a BiomedCLIP-based system that flags inconsistencies between dental CBCT scans and clinical notes
+- Co-author, ODIN Workshop @ MICCAI 2026 — *Multimodal Clinical-Data-Integrity for Dental CBCT* (under review)
 
-# 🛠️ Technologies and Tools
+---
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=ai&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![Codio](https://img.shields.io/badge/Codio-1F2A3A?style=for-the-badge&logo=codio&logoColor=white)](https://codio.com/)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-[![Seaborn](https://img.shields.io/badge/Seaborn-API-blue?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+### Selected work
 
+**[Trustworthy AI for ECG Anomaly Detection](https://github.com/Neh2005/Trustworthy-ECG-Anomaly-Detection-Dissertation)**
+Compared CNN, ResNet, and a Hybrid Transformer-CNN on MIT-BIH — not just for accuracy, but for whether their explanations (Grad-CAM, Integrated Gradients) held up under adversarial attack (FGSM, PGD). The simplest model won on all three fronts: 97% accuracy, 0.87 macro-F1, and the most stable explanations under attack. Complexity ≠ trust.
 
-### 📊 GitHub Stats
+**[Diabetes Risk — Deep Learning vs. Ensembles](https://github.com/Neh2005/Hybrid-Deep-Learning-Ensemble-Diabetes-Predictor)**
+Benchmarked CNN-RNN and Transformer-CNN hybrids against XGBoost, LightGBM, and CatBoost on ~195K CDC health records. A stacking ensemble beat every neural model I tried — 0.907 accuracy, 0.964 AUC vs. 0.831 for the best deep model. Sometimes the boring model is the right one.
 
+**[Komodo Hub](https://github.com/Neh2005/Komodo-Hub---University-Team-project)**
+Real-time collaboration platform — led a 6-person team through RBAC, live messaging, and a GitHub Actions pipeline that deploys to Firebase on every commit. Stress-tested to 100 concurrent sessions.
 
+**[Secure E-Commerce Platform](https://github.com/Neh2005/Secure-E-Commerce-project)**
+Built it, then spent as much time trying to break it — OWASP Top 10 hardening, MFA, and an automated audit pipeline (Bandit, Semgrep, ZAP) that ran on every commit until it reached zero exploitable vulnerabilities.
+
+*(+ [genomic-variant-density-viewer](https://github.com/Neh2005/genomic-variant-density-viewer) — Rust/WASM, and [Healio](https://github.com/Neh2005/Healio_Microsoft_Imagine_Cup) — Microsoft Imagine Cup)*
+
+---
+
+### Stack
+
+- **ML / research** — PyTorch, TensorFlow, Scikit-learn, XGBoost/LightGBM/CatBoost, BiomedCLIP, Grad-CAM & Integrated Gradients, adversarial training (FGSM/PGD)
+- **Backend / data** — Python, Django, Flask, SQL, Pandas, Firebase
+- **Web** — React, Node.js, REST APIs
+- **Shipping** — Git, GitHub Actions CI/CD, Docker, OWASP-aligned security practice
+
+---
+
+Reach me: **[neha.ann.binoy@gmail.com](mailto:neha.ann.binoy@gmail.com)**
